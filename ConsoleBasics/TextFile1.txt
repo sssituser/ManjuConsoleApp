@@ -18,10 +18,20 @@ Type Conversion :
 	Converting value types to reference type is called boxing
 	and viceverca is called unboxing
 
-	unboxing is the process of coverting is called unboxing.
+	unboxing is the process of coverting reference type to value type
+	is called unboxing.
 
+	//
 
-
+	1. To Read string  :   Console.ReadLine()
+	2. To Read Integer :   int.Parse(Console.ReadLine())
+	3. To Read Short   :   short.Parse(Console.ReadLine())
+	4. To Read ushort  :   ushort.Parse(Console.ReadLine())
+	5. To Read long    :   long.Parse(Console.ReadLine())
+	6. To Read Float   :   float.Parse(Console.ReadLine())
+	7. To Read Double  :   double.Parse(Console.ReadLine())
+	8. To Read Decimal :   decimal.Parse(Console.ReadLine())
+	9. To Read Byte    :   byte.Parse(Console.ReadLine())
 
 
 
