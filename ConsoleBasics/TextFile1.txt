@@ -1,0 +1,28 @@
+﻿Console.ReadLine : It is used to read a string.
+string : anything written in between double quotes:
+	"abc"
+	"231312"
+	"/*/*4230fjsdljdsf"
+	"" Empty
+Console.Read() : It is used to ASCII values of the  keys.
+
+Console.ReadKey() :It is used to read key.
+
+								Data Types
+		Value Types			Reference Type			Pointer Type
+byte,sbyte,short,ushort		string,class,object      int,out
+int,uint , long , ulong
+float,double,decimal,
+char,bool
+Type Conversion :
+	Converting value types to reference type is called boxing
+	and viceverca is called unboxing
+
+	unboxing is the process of coverting is called unboxing.
+
+
+
+
+
+
+
