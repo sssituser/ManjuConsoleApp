@@ -33,6 +33,9 @@ Type Conversion :
 	8. To Read Decimal :   decimal.Parse(Console.ReadLine())
 	9. To Read Byte    :   byte.Parse(Console.ReadLine())
 
+	10.To Read boolean value : bool.Parse(Console.ReadLine())
+	11.To Read char          : char.Parse(Console.ReadLiine())
+
 
 
 

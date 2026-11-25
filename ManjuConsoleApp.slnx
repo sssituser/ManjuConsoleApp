@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="98f114de-649a-4251-9a97-765bb680ba08" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="3e78e844-0851-463e-9463-8c4d42ed83c1" />
+  <Project Path="ConsoleAppOperators/ConsoleAppOperators.csproj" Id="507908c1-6892-4dcc-b12a-5878b32cfa96" />
   <Project Path="ConsoleBasics/ConsoleBasics.csproj" Id="160d4b53-869d-4adc-9e7c-f0787c1897e5" />
   <Project Path="ManjuConsoleApp/ManjuConsoleApp.csproj" Id="239288f5-4ec9-4fcc-92f1-d4e03577ddfd" />
 </Solution>
